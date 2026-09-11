@@ -1,6 +1,6 @@
 # Portafolio
-Martín Joel Arjona — Portafolio Personal
-Portafolio web profesional desarrollado para destacar perfil técnico, experiencia y certificaciones en Ciberseguridad, Soporte Técnico y Desarrollo Web.
+# Martín Joel Arjona — Portafolio Personal
+# Portafolio web profesional desarrollado para destacar perfil técnico, experiencia y certificaciones en Ciberseguridad, Soporte Técnico y Desarrollo Web.
 
 🚀 Características
 Diseño Responsivo y Moderno: Interfaz adaptada a dispositivos móviles y de escritorio mediante Tailwind CSS.

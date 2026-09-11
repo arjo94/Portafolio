@@ -1,6 +1,6 @@
 # Martín Joel Arjona — Portafolio web profesional desarrollado para destacar perfil técnico, experiencia y certificaciones en Ciberseguridad, Soporte Técnico y Desarrollo Web.
 
-##🚀 Características
+🚀 Características
 Diseño Responsivo y Moderno: Interfaz adaptada a dispositivos móviles y de escritorio mediante Tailwind CSS.
 
 Estética de Terminal: Elementos visuales interactivos y simulación de consola orientados a entornos de seguridad informática.

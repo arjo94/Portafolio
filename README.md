@@ -15,7 +15,7 @@ Experiencia: Historial laboral en análisis SOC, Threat Hunting e ingeniería de
 
 Habilidades Técnicas: Clasificación por categorías (Programación, Seguridad Defensiva, Ofensiva, Sistemas y Redes).
 
-Certificaciones: Credenciales oficiales en ciberseguridad y soporte de TI.
+Certificaciones: Credenciales oficiales en ciberseguridad e Inteligencia artificial y soporte de TI.
 
 🛠️ Tecnologías Utilizadas
 HTML5 (Semántico)
